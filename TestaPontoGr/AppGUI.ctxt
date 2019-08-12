@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AppGUI
+comment1.params=larg\ alt
+comment1.target=AppGUI(int,\ int)
+comment1.text=private\ JButton\ jbRetas\ \=\ new\ JButton("Retas");\r\n\ \ \ \ private\ JButton\ jbCirculos\ \=\ new\ JButton("Circulos");\r\n\ \ \ \ private\ JButton\ jbVogais\ \=\ new\ JButton("Vogais");\r\n\ \ \ \ private\ JLabel\ jDummy\ \=\ new\ JLabel("\ >>>>>\ ");\r\n\ \ \ \ private\ JLabel\ jDiv\ \=\ new\ JLabel("Divisoes\ para\ Retas\:\ ");\r\n\ \ \ \ private\ JTextField\ jtfDivisoes\ \=\ new\ JTextField("3");\r\n
+numComments=2
