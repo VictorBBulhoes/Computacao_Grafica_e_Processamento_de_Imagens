@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment1.params=
+comment1.target=Ponto\ getP1()
+comment2.params=p1
+comment2.target=void\ setP1(Ponto)
+comment3.params=
+comment3.target=Ponto\ getP2()
+comment4.params=p2
+comment4.target=void\ setP2(Ponto)
+numComments=5

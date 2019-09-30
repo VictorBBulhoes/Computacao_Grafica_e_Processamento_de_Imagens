@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RetanguloGr
+comment1.params=x1\ y1\ x2\ y2\ corReta
+comment1.target=RetanguloGr(int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment10.params=x2
+comment10.target=void\ setX2(int)
+comment11.params=
+comment11.target=int\ getY2()
+comment12.params=y2
+comment12.target=void\ setY2(int)
+comment2.params=gc\ x1\ y1\ x2\ y2\ corReta
+comment2.target=void\ desenharQuadrado(javafx.scene.canvas.GraphicsContext,\ int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment3.params=
+comment3.target=javafx.scene.paint.Color\ getCorReta()
+comment4.params=corReta
+comment4.target=void\ setCorReta(javafx.scene.paint.Color)
+comment5.params=
+comment5.target=int\ getX1()
+comment6.params=x1
+comment6.target=void\ setX1(int)
+comment7.params=
+comment7.target=int\ getY1()
+comment8.params=y1
+comment8.target=void\ setY1(int)
+comment9.params=
+comment9.target=int\ getX2()
+numComments=13

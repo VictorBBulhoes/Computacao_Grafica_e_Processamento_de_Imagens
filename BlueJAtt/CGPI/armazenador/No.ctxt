@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=No
+comment1.params=v
+comment1.target=No(java.lang.Object)
+comment2.params=
+comment2.target=No\ getProx()
+comment3.params=prox
+comment3.target=void\ setProx(No)
+comment4.params=
+comment4.target=java.lang.Object\ getConteudo()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

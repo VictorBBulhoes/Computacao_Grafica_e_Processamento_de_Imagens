@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Reta
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Reta(int,\ int,\ int,\ int)
+comment2.params=p1\ p2
+comment2.target=Reta(Ponto,\ Ponto)
+comment3.params=p1
+comment3.target=void\ setP1(Ponto)
+comment4.params=p2
+comment4.target=void\ setP2(Ponto)
+comment5.params=
+comment5.target=Ponto\ getP1()
+comment6.params=
+comment6.target=Ponto\ getP2()
+comment7.params=
+comment7.target=double\ calculaM()
+comment8.params=
+comment8.target=double\ calculaB()
+numComments=9

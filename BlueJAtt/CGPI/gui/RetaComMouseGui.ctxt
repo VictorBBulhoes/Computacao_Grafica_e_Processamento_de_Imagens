@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RetaComMouseGui
+comment1.params=palco
+comment1.target=RetaComMouseGui(javafx.stage.Stage)
+comment2.params=gc\ inicial\ r\ g
+comment2.target=void\ desenharForma(javafx.scene.canvas.GraphicsContext,\ primitivos.Ponto,\ javafx.scene.paint.Color,\ javafx.scene.paint.Color)
+comment3.params=gc\ inicial
+comment3.target=void\ desenharLinhas(javafx.scene.canvas.GraphicsContext,\ primitivos.Ponto)
+comment4.params=gc
+comment4.target=void\ redesenhar(javafx.scene.canvas.GraphicsContext)
+numComments=5

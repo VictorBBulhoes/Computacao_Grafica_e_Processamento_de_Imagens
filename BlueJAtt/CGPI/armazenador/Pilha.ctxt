@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pilha
+comment1.params=limite
+comment1.target=Pilha(int)
+comment2.params=v
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=limite
+comment4.target=void\ setLimite(int)
+comment5.params=
+comment5.target=int\ getLimite()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

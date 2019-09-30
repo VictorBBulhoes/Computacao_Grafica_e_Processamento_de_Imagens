@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment1.params=
+comment1.target=ListaLigada()
+comment10.params=
+comment10.target=java.lang.Object\ acessarFim()
+comment11.params=
+comment11.target=int\ getQtd()
+comment2.params=v
+comment2.target=ListaLigada(java.lang.Object)
+comment3.params=a
+comment3.target=void\ inserirNoComeco(java.lang.Object)
+comment4.params=a
+comment4.target=void\ inserirNoFim(java.lang.Object)
+comment5.params=
+comment5.target=void\ removerNoComeco()
+comment6.params=
+comment6.target=void\ removerNoFim()
+comment7.params=a
+comment7.target=java.lang.Object\ buscarObjeto(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=java.lang.Object\ acessarInicio()
+numComments=12
